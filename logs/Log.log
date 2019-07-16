@@ -1,0 +1,375 @@
+2019-07-03 15:26:07 TRACE AccountRepositoryJDBC:46 - Finding Account Information
+2019-07-03 15:26:10 ERROR AccountRepositoryJDBC:64 - Could not find Account.
+java.sql.SQLException: Invalid column index
+	at oracle.jdbc.driver.OraclePreparedStatement.setLongInternal(OraclePreparedStatement.java:5270)
+	at oracle.jdbc.driver.OraclePreparedStatement.setLong(OraclePreparedStatement.java:5257)
+	at oracle.jdbc.driver.OraclePreparedStatementWrapper.setLong(OraclePreparedStatementWrapper.java:217)
+	at com.revature.repositories.AccountRepositoryJDBC.findAccount(AccountRepositoryJDBC.java:53)
+	at com.revature.repositories.AccountRepositoryJDBC.main(AccountRepositoryJDBC.java:73)
+2019-07-03 15:26:10 INFO  AccountRepositoryJDBC:73 - false
+2019-07-03 15:26:40 TRACE AccountRepositoryJDBC:46 - Finding Account Information
+2019-07-03 15:26:44 ERROR AccountRepositoryJDBC:64 - Could not find Account.
+java.sql.SQLException: Invalid column index
+	at oracle.jdbc.driver.OraclePreparedStatement.setLongInternal(OraclePreparedStatement.java:5270)
+	at oracle.jdbc.driver.OraclePreparedStatement.setLong(OraclePreparedStatement.java:5257)
+	at oracle.jdbc.driver.OraclePreparedStatementWrapper.setLong(OraclePreparedStatementWrapper.java:217)
+	at com.revature.repositories.AccountRepositoryJDBC.findAccount(AccountRepositoryJDBC.java:53)
+	at com.revature.repositories.AccountRepositoryJDBC.main(AccountRepositoryJDBC.java:73)
+2019-07-03 15:26:44 INFO  AccountRepositoryJDBC:73 - false
+2019-07-03 15:33:25 TRACE AccountRepositoryJDBC:46 - Finding Account Information
+2019-07-03 15:33:29 ERROR AccountRepositoryJDBC:70 - Could not find Account.
+java.sql.SQLException: Invalid column index
+	at oracle.jdbc.driver.OraclePreparedStatement.setLongInternal(OraclePreparedStatement.java:5270)
+	at oracle.jdbc.driver.OraclePreparedStatement.setLong(OraclePreparedStatement.java:5257)
+	at oracle.jdbc.driver.OraclePreparedStatementWrapper.setLong(OraclePreparedStatementWrapper.java:217)
+	at com.revature.repositories.AccountRepositoryJDBC.findAccount(AccountRepositoryJDBC.java:53)
+	at com.revature.repositories.AccountRepositoryJDBC.main(AccountRepositoryJDBC.java:79)
+2019-07-03 15:33:29 INFO  AccountRepositoryJDBC:79 - 
+2019-07-03 15:35:24 TRACE AccountRepositoryJDBC:46 - Finding Account Information
+2019-07-03 15:35:27 ERROR AccountRepositoryJDBC:71 - Could not find Account.
+java.sql.SQLException: Invalid column index
+	at oracle.jdbc.driver.OraclePreparedStatement.setLongInternal(OraclePreparedStatement.java:5270)
+	at oracle.jdbc.driver.OraclePreparedStatement.setLong(OraclePreparedStatement.java:5257)
+	at oracle.jdbc.driver.OraclePreparedStatementWrapper.setLong(OraclePreparedStatementWrapper.java:217)
+	at com.revature.repositories.AccountRepositoryJDBC.findAccount(AccountRepositoryJDBC.java:53)
+	at com.revature.repositories.AccountRepositoryJDBC.main(AccountRepositoryJDBC.java:80)
+2019-07-03 15:35:27 INFO  AccountRepositoryJDBC:80 - 
+2019-07-03 15:35:57 TRACE AccountRepositoryJDBC:46 - Finding Account Information
+2019-07-03 15:36:00 ERROR AccountRepositoryJDBC:71 - Could not find Account.
+java.sql.SQLException: Invalid column index
+	at oracle.jdbc.driver.OraclePreparedStatement.setLongInternal(OraclePreparedStatement.java:5270)
+	at oracle.jdbc.driver.OraclePreparedStatement.setLong(OraclePreparedStatement.java:5257)
+	at oracle.jdbc.driver.OraclePreparedStatementWrapper.setLong(OraclePreparedStatementWrapper.java:217)
+	at com.revature.repositories.AccountRepositoryJDBC.findAccount(AccountRepositoryJDBC.java:53)
+	at com.revature.repositories.AccountRepositoryJDBC.main(AccountRepositoryJDBC.java:80)
+2019-07-03 15:36:00 INFO  AccountRepositoryJDBC:80 - 
+2019-07-03 15:36:57 TRACE AccountRepositoryJDBC:46 - Finding Account Information
+2019-07-03 15:37:00 ERROR AccountRepositoryJDBC:73 - Could not find Account.
+java.sql.SQLException: Invalid column index
+	at oracle.jdbc.driver.OraclePreparedStatement.setLongInternal(OraclePreparedStatement.java:5270)
+	at oracle.jdbc.driver.OraclePreparedStatement.setLong(OraclePreparedStatement.java:5257)
+	at oracle.jdbc.driver.OraclePreparedStatementWrapper.setLong(OraclePreparedStatementWrapper.java:217)
+	at com.revature.repositories.AccountRepositoryJDBC.findAccount(AccountRepositoryJDBC.java:53)
+	at com.revature.repositories.AccountRepositoryJDBC.main(AccountRepositoryJDBC.java:82)
+2019-07-03 15:37:00 INFO  AccountRepositoryJDBC:82 - 
+2019-07-03 15:38:16 TRACE AccountRepositoryJDBC:46 - Finding Account Information
+2019-07-03 15:38:19 ERROR AccountRepositoryJDBC:73 - Could not find Account.
+java.sql.SQLException: Invalid column index
+	at oracle.jdbc.driver.OraclePreparedStatement.setLongInternal(OraclePreparedStatement.java:5270)
+	at oracle.jdbc.driver.OraclePreparedStatement.setLong(OraclePreparedStatement.java:5257)
+	at oracle.jdbc.driver.OraclePreparedStatementWrapper.setLong(OraclePreparedStatementWrapper.java:217)
+	at com.revature.repositories.AccountRepositoryJDBC.findAccount(AccountRepositoryJDBC.java:53)
+	at com.revature.repositories.AccountRepositoryJDBC.main(AccountRepositoryJDBC.java:82)
+2019-07-03 15:38:19 INFO  AccountRepositoryJDBC:82 - 
+2019-07-03 15:41:55 TRACE AccountRepositoryJDBC:47 - Finding Account Information
+2019-07-03 15:41:59 ERROR AccountRepositoryJDBC:72 - Could not find Account.
+java.sql.SQLException: Invalid column index
+	at oracle.jdbc.driver.OraclePreparedStatement.setLongInternal(OraclePreparedStatement.java:5270)
+	at oracle.jdbc.driver.OraclePreparedStatement.setLong(OraclePreparedStatement.java:5257)
+	at oracle.jdbc.driver.OraclePreparedStatementWrapper.setLong(OraclePreparedStatementWrapper.java:217)
+	at com.revature.repositories.AccountRepositoryJDBC.findAccount(AccountRepositoryJDBC.java:54)
+	at com.revature.repositories.AccountRepositoryJDBC.main(AccountRepositoryJDBC.java:80)
+2019-07-03 15:41:59 INFO  AccountRepositoryJDBC:80 - 
+2019-07-03 15:42:35 TRACE AccountRepositoryJDBC:47 - Finding Account Information
+2019-07-03 15:42:39 ERROR AccountRepositoryJDBC:72 - Could not find Account.
+java.sql.SQLException: Invalid column index
+	at oracle.jdbc.driver.OraclePreparedStatement.setLongInternal(OraclePreparedStatement.java:5270)
+	at oracle.jdbc.driver.OraclePreparedStatement.setLong(OraclePreparedStatement.java:5257)
+	at oracle.jdbc.driver.OraclePreparedStatementWrapper.setLong(OraclePreparedStatementWrapper.java:217)
+	at com.revature.repositories.AccountRepositoryJDBC.findAccount(AccountRepositoryJDBC.java:54)
+	at com.revature.repositories.AccountRepositoryJDBC.main(AccountRepositoryJDBC.java:80)
+2019-07-03 15:42:39 INFO  AccountRepositoryJDBC:80 - 
+2019-07-03 15:43:43 TRACE AccountRepositoryJDBC:48 - Finding Account Information
+2019-07-03 15:43:47 ERROR AccountRepositoryJDBC:73 - Could not find Account.
+java.sql.SQLException: Invalid column index
+	at oracle.jdbc.driver.OraclePreparedStatement.setLongInternal(OraclePreparedStatement.java:5270)
+	at oracle.jdbc.driver.OraclePreparedStatement.setLong(OraclePreparedStatement.java:5257)
+	at oracle.jdbc.driver.OraclePreparedStatementWrapper.setLong(OraclePreparedStatementWrapper.java:217)
+	at com.revature.repositories.AccountRepositoryJDBC.findAccount(AccountRepositoryJDBC.java:55)
+	at com.revature.repositories.AccountRepositoryJDBC.main(AccountRepositoryJDBC.java:81)
+2019-07-03 15:43:47 INFO  AccountRepositoryJDBC:81 - 
+2019-07-03 15:44:56 TRACE AccountRepositoryJDBC:48 - Finding Account Information
+2019-07-03 15:44:59 TRACE AccountRepositoryJDBC:61 - Found Account
+2019-07-03 15:44:59 INFO  AccountRepositoryJDBC:81 - Account [id=3, firstName=Vani, lastName=Joshi, email=vjoshi126@gmail.com, username=vjoshi21, password=12345, role=E]
+2019-07-03 15:48:03 INFO  AccountRepositoryJDBC:81 - true
+2019-07-03 16:08:27 WARN  RequestRepositoryJDBC:67 - Error on selecting on all the employees
+java.sql.SQLException: Invalid column name
+	at oracle.jdbc.driver.OracleStatement.getColumnIndex(OracleStatement.java:3965)
+	at oracle.jdbc.driver.InsensitiveScrollableResultSet.findColumn(InsensitiveScrollableResultSet.java:299)
+	at oracle.jdbc.driver.GeneratedResultSet.getString(GeneratedResultSet.java:1460)
+	at com.revature.repositories.RequestRepositoryJDBC.lookAtRequest(RequestRepositoryJDBC.java:60)
+	at com.revature.repositories.RequestRepositoryJDBC.main(RequestRepositoryJDBC.java:106)
+2019-07-03 16:08:27 INFO  RequestRepositoryJDBC:106 - []
+2019-07-03 16:10:04 INFO  RequestRepositoryJDBC:106 - [Request [id=1111, type=TRAVEL, status=Status [id=1234, type=], accountId=2], Request [id=2222, type=CERTIFICATION, status=Status [id=2345, type=], accountId=3], Request [id=3333, type=TRAINING, status=Status [id=3456, type=], accountId=4], Request [id=4444, type=CERTIFICATION, status=Status [id=4567, type=], accountId=5]]
+2019-07-05 15:47:00 INFO  RequestRepositoryJDBC:106 - []
+2019-07-05 15:48:57 INFO  RequestRepositoryJDBC:106 - []
+2019-07-05 15:49:40 INFO  RequestRepositoryJDBC:106 - []
+2019-07-05 15:49:51 INFO  RequestRepositoryJDBC:106 - []
+2019-07-05 15:52:57 INFO  RequestRepositoryJDBC:105 - 
+2019-07-05 15:53:20 INFO  RequestRepositoryJDBC:105 - 
+2019-07-05 15:55:13 INFO  RequestRepositoryJDBC:105 - Request [id=1111, type=TRAVEL, status=Status [id=1234, type=], accountId=2]
+2019-07-06 10:12:15 INFO  RequestRepositoryJDBC:105 - Request [id=1111, type=TRAVEL, status=Status [id=1234, type=], accountId=2]
+2019-07-06 10:20:57 ERROR RequestRepositoryJDBC:41 - Could not create request.
+java.sql.SQLException: Missing IN or OUT parameter at index:: 5
+	at oracle.jdbc.driver.OraclePreparedStatement.processCompletedBindRow(OraclePreparedStatement.java:1878)
+	at oracle.jdbc.driver.OraclePreparedStatement.executeInternal(OraclePreparedStatement.java:3815)
+	at oracle.jdbc.driver.OraclePreparedStatement.executeUpdate(OraclePreparedStatement.java:3897)
+	at oracle.jdbc.driver.OraclePreparedStatementWrapper.executeUpdate(OraclePreparedStatementWrapper.java:1361)
+	at com.revature.repositories.RequestRepositoryJDBC.insertRequest(RequestRepositoryJDBC.java:36)
+	at com.revature.repositories.RequestRepositoryJDBC.main(RequestRepositoryJDBC.java:105)
+2019-07-06 10:20:57 INFO  RequestRepositoryJDBC:105 - false
+2019-07-06 10:25:24 ERROR RequestRepositoryJDBC:42 - Could not create request.
+java.sql.SQLIntegrityConstraintViolationException: ORA-02291: integrity constraint (AJOSHI97.FK_REQ_STATUS) violated - parent key not found
+
+	at oracle.jdbc.driver.T4CTTIoer.processError(T4CTTIoer.java:450)
+	at oracle.jdbc.driver.T4CTTIoer.processError(T4CTTIoer.java:399)
+	at oracle.jdbc.driver.T4C8Oall.processError(T4C8Oall.java:1017)
+	at oracle.jdbc.driver.T4CTTIfun.receive(T4CTTIfun.java:655)
+	at oracle.jdbc.driver.T4CTTIfun.doRPC(T4CTTIfun.java:249)
+	at oracle.jdbc.driver.T4C8Oall.doOALL(T4C8Oall.java:566)
+	at oracle.jdbc.driver.T4CPreparedStatement.doOall8(T4CPreparedStatement.java:215)
+	at oracle.jdbc.driver.T4CPreparedStatement.doOall8(T4CPreparedStatement.java:58)
+	at oracle.jdbc.driver.T4CPreparedStatement.executeForRows(T4CPreparedStatement.java:943)
+	at oracle.jdbc.driver.OracleStatement.doExecuteWithTimeout(OracleStatement.java:1075)
+	at oracle.jdbc.driver.OraclePreparedStatement.executeInternal(OraclePreparedStatement.java:3820)
+	at oracle.jdbc.driver.OraclePreparedStatement.executeUpdate(OraclePreparedStatement.java:3897)
+	at oracle.jdbc.driver.OraclePreparedStatementWrapper.executeUpdate(OraclePreparedStatementWrapper.java:1361)
+	at com.revature.repositories.RequestRepositoryJDBC.insertRequest(RequestRepositoryJDBC.java:37)
+	at com.revature.repositories.RequestRepositoryJDBC.main(RequestRepositoryJDBC.java:106)
+2019-07-06 10:25:24 INFO  RequestRepositoryJDBC:106 - false
+2019-07-06 10:26:00 ERROR RequestRepositoryJDBC:41 - Could not create request.
+java.sql.SQLException: Missing IN or OUT parameter at index:: 5
+	at oracle.jdbc.driver.OraclePreparedStatement.processCompletedBindRow(OraclePreparedStatement.java:1878)
+	at oracle.jdbc.driver.OraclePreparedStatement.executeInternal(OraclePreparedStatement.java:3815)
+	at oracle.jdbc.driver.OraclePreparedStatement.executeUpdate(OraclePreparedStatement.java:3897)
+	at oracle.jdbc.driver.OraclePreparedStatementWrapper.executeUpdate(OraclePreparedStatementWrapper.java:1361)
+	at com.revature.repositories.RequestRepositoryJDBC.insertRequest(RequestRepositoryJDBC.java:36)
+	at com.revature.repositories.RequestRepositoryJDBC.main(RequestRepositoryJDBC.java:105)
+2019-07-06 10:26:00 INFO  RequestRepositoryJDBC:105 - false
+2019-07-06 10:34:21 ERROR RequestRepositoryJDBC:41 - Could not create request.
+java.sql.SQLException: Missing IN or OUT parameter at index:: 5
+	at oracle.jdbc.driver.OraclePreparedStatement.processCompletedBindRow(OraclePreparedStatement.java:1878)
+	at oracle.jdbc.driver.OraclePreparedStatement.executeInternal(OraclePreparedStatement.java:3815)
+	at oracle.jdbc.driver.OraclePreparedStatement.executeUpdate(OraclePreparedStatement.java:3897)
+	at oracle.jdbc.driver.OraclePreparedStatementWrapper.executeUpdate(OraclePreparedStatementWrapper.java:1361)
+	at com.revature.repositories.RequestRepositoryJDBC.insertRequest(RequestRepositoryJDBC.java:36)
+	at com.revature.repositories.RequestRepositoryJDBC.main(RequestRepositoryJDBC.java:105)
+2019-07-06 10:34:21 INFO  RequestRepositoryJDBC:105 - false
+2019-07-06 10:34:58 ERROR RequestRepositoryJDBC:41 - Could not create request.
+java.sql.SQLException: Missing IN or OUT parameter at index:: 5
+	at oracle.jdbc.driver.OraclePreparedStatement.processCompletedBindRow(OraclePreparedStatement.java:1878)
+	at oracle.jdbc.driver.OraclePreparedStatement.executeInternal(OraclePreparedStatement.java:3815)
+	at oracle.jdbc.driver.OraclePreparedStatement.executeUpdate(OraclePreparedStatement.java:3897)
+	at oracle.jdbc.driver.OraclePreparedStatementWrapper.executeUpdate(OraclePreparedStatementWrapper.java:1361)
+	at com.revature.repositories.RequestRepositoryJDBC.insertRequest(RequestRepositoryJDBC.java:36)
+	at com.revature.repositories.RequestRepositoryJDBC.main(RequestRepositoryJDBC.java:105)
+2019-07-06 10:34:58 INFO  RequestRepositoryJDBC:105 - false
+2019-07-06 10:40:06 ERROR RequestRepositoryJDBC:41 - Could not create request.
+java.sql.SQLException: Missing IN or OUT parameter at index:: 5
+	at oracle.jdbc.driver.OraclePreparedStatement.processCompletedBindRow(OraclePreparedStatement.java:1878)
+	at oracle.jdbc.driver.OraclePreparedStatement.executeInternal(OraclePreparedStatement.java:3815)
+	at oracle.jdbc.driver.OraclePreparedStatement.executeUpdate(OraclePreparedStatement.java:3897)
+	at oracle.jdbc.driver.OraclePreparedStatementWrapper.executeUpdate(OraclePreparedStatementWrapper.java:1361)
+	at com.revature.repositories.RequestRepositoryJDBC.insertRequest(RequestRepositoryJDBC.java:36)
+	at com.revature.repositories.RequestRepositoryJDBC.main(RequestRepositoryJDBC.java:105)
+2019-07-06 10:40:06 INFO  RequestRepositoryJDBC:105 - false
+2019-07-06 10:42:41 ERROR RequestRepositoryJDBC:42 - Could not create request.
+java.sql.SQLIntegrityConstraintViolationException: ORA-02291: integrity constraint (AJOSHI97.FK_REQ_STATUS) violated - parent key not found
+
+	at oracle.jdbc.driver.T4CTTIoer.processError(T4CTTIoer.java:450)
+	at oracle.jdbc.driver.T4CTTIoer.processError(T4CTTIoer.java:399)
+	at oracle.jdbc.driver.T4C8Oall.processError(T4C8Oall.java:1017)
+	at oracle.jdbc.driver.T4CTTIfun.receive(T4CTTIfun.java:655)
+	at oracle.jdbc.driver.T4CTTIfun.doRPC(T4CTTIfun.java:249)
+	at oracle.jdbc.driver.T4C8Oall.doOALL(T4C8Oall.java:566)
+	at oracle.jdbc.driver.T4CPreparedStatement.doOall8(T4CPreparedStatement.java:215)
+	at oracle.jdbc.driver.T4CPreparedStatement.doOall8(T4CPreparedStatement.java:58)
+	at oracle.jdbc.driver.T4CPreparedStatement.executeForRows(T4CPreparedStatement.java:943)
+	at oracle.jdbc.driver.OracleStatement.doExecuteWithTimeout(OracleStatement.java:1075)
+	at oracle.jdbc.driver.OraclePreparedStatement.executeInternal(OraclePreparedStatement.java:3820)
+	at oracle.jdbc.driver.OraclePreparedStatement.executeUpdate(OraclePreparedStatement.java:3897)
+	at oracle.jdbc.driver.OraclePreparedStatementWrapper.executeUpdate(OraclePreparedStatementWrapper.java:1361)
+	at com.revature.repositories.RequestRepositoryJDBC.insertRequest(RequestRepositoryJDBC.java:37)
+	at com.revature.repositories.RequestRepositoryJDBC.main(RequestRepositoryJDBC.java:106)
+2019-07-06 10:42:41 INFO  RequestRepositoryJDBC:106 - false
+2019-07-06 10:44:05 ERROR RequestRepositoryJDBC:42 - Could not create request.
+java.sql.SQLException: Missing IN or OUT parameter at index:: 5
+	at oracle.jdbc.driver.OraclePreparedStatement.processCompletedBindRow(OraclePreparedStatement.java:1878)
+	at oracle.jdbc.driver.OraclePreparedStatement.executeInternal(OraclePreparedStatement.java:3815)
+	at oracle.jdbc.driver.OraclePreparedStatement.executeUpdate(OraclePreparedStatement.java:3897)
+	at oracle.jdbc.driver.OraclePreparedStatementWrapper.executeUpdate(OraclePreparedStatementWrapper.java:1361)
+	at com.revature.repositories.RequestRepositoryJDBC.insertRequest(RequestRepositoryJDBC.java:37)
+	at com.revature.repositories.RequestRepositoryJDBC.main(RequestRepositoryJDBC.java:106)
+2019-07-06 10:44:05 INFO  RequestRepositoryJDBC:106 - false
+2019-07-06 10:48:21 INFO  RequestRepositoryJDBC:106 - [Request [id=1111, type=TRAVEL, accountId=2, status=Status [id=1234, type=]], Request [id=2222, type=CERTIFICATION, accountId=3, status=Status [id=2345, type=]], Request [id=3333, type=TRAINING, accountId=4, status=Status [id=3456, type=]], Request [id=4444, type=CERTIFICATION, accountId=5, status=Status [id=4567, type=]]]
+2019-07-06 10:49:01 INFO  RequestRepositoryJDBC:106 - Request [id=2222, type=CERTIFICATION, accountId=3, status=Status [id=2345, type=]]
+2019-07-06 10:51:37 ERROR RequestRepositoryJDBC:42 - Could not create request.
+java.sql.SQLException: Missing IN or OUT parameter at index:: 5
+	at oracle.jdbc.driver.OraclePreparedStatement.processCompletedBindRow(OraclePreparedStatement.java:1878)
+	at oracle.jdbc.driver.OraclePreparedStatement.executeInternal(OraclePreparedStatement.java:3815)
+	at oracle.jdbc.driver.OraclePreparedStatement.executeUpdate(OraclePreparedStatement.java:3897)
+	at oracle.jdbc.driver.OraclePreparedStatementWrapper.executeUpdate(OraclePreparedStatementWrapper.java:1361)
+	at com.revature.repositories.RequestRepositoryJDBC.insertRequest(RequestRepositoryJDBC.java:37)
+	at com.revature.repositories.RequestRepositoryJDBC.main(RequestRepositoryJDBC.java:106)
+2019-07-06 10:51:37 INFO  RequestRepositoryJDBC:106 - false
+2019-07-06 10:52:00 ERROR RequestRepositoryJDBC:42 - Could not create request.
+java.sql.SQLException: Missing IN or OUT parameter at index:: 5
+	at oracle.jdbc.driver.OraclePreparedStatement.processCompletedBindRow(OraclePreparedStatement.java:1878)
+	at oracle.jdbc.driver.OraclePreparedStatement.executeInternal(OraclePreparedStatement.java:3815)
+	at oracle.jdbc.driver.OraclePreparedStatement.executeUpdate(OraclePreparedStatement.java:3897)
+	at oracle.jdbc.driver.OraclePreparedStatementWrapper.executeUpdate(OraclePreparedStatementWrapper.java:1361)
+	at com.revature.repositories.RequestRepositoryJDBC.insertRequest(RequestRepositoryJDBC.java:37)
+	at com.revature.repositories.RequestRepositoryJDBC.main(RequestRepositoryJDBC.java:106)
+2019-07-06 10:52:00 INFO  RequestRepositoryJDBC:106 - false
+2019-07-06 10:53:06 ERROR RequestRepositoryJDBC:42 - Could not create request.
+java.sql.SQLIntegrityConstraintViolationException: ORA-01400: cannot insert NULL into ("AJOSHI97"."REQUEST"."R_STATUS")
+
+	at oracle.jdbc.driver.T4CTTIoer.processError(T4CTTIoer.java:450)
+	at oracle.jdbc.driver.T4CTTIoer.processError(T4CTTIoer.java:399)
+	at oracle.jdbc.driver.T4C8Oall.processError(T4C8Oall.java:1017)
+	at oracle.jdbc.driver.T4CTTIfun.receive(T4CTTIfun.java:655)
+	at oracle.jdbc.driver.T4CTTIfun.doRPC(T4CTTIfun.java:249)
+	at oracle.jdbc.driver.T4C8Oall.doOALL(T4C8Oall.java:566)
+	at oracle.jdbc.driver.T4CPreparedStatement.doOall8(T4CPreparedStatement.java:215)
+	at oracle.jdbc.driver.T4CPreparedStatement.doOall8(T4CPreparedStatement.java:58)
+	at oracle.jdbc.driver.T4CPreparedStatement.executeForRows(T4CPreparedStatement.java:943)
+	at oracle.jdbc.driver.OracleStatement.doExecuteWithTimeout(OracleStatement.java:1075)
+	at oracle.jdbc.driver.OraclePreparedStatement.executeInternal(OraclePreparedStatement.java:3820)
+	at oracle.jdbc.driver.OraclePreparedStatement.executeUpdate(OraclePreparedStatement.java:3897)
+	at oracle.jdbc.driver.OraclePreparedStatementWrapper.executeUpdate(OraclePreparedStatementWrapper.java:1361)
+	at com.revature.repositories.RequestRepositoryJDBC.insertRequest(RequestRepositoryJDBC.java:37)
+	at com.revature.repositories.RequestRepositoryJDBC.main(RequestRepositoryJDBC.java:106)
+2019-07-06 10:53:06 INFO  RequestRepositoryJDBC:106 - false
+2019-07-06 10:53:27 ERROR RequestRepositoryJDBC:42 - Could not create request.
+java.sql.SQLIntegrityConstraintViolationException: ORA-02291: integrity constraint (AJOSHI97.FK_REQ_STATUS) violated - parent key not found
+
+	at oracle.jdbc.driver.T4CTTIoer.processError(T4CTTIoer.java:450)
+	at oracle.jdbc.driver.T4CTTIoer.processError(T4CTTIoer.java:399)
+	at oracle.jdbc.driver.T4C8Oall.processError(T4C8Oall.java:1017)
+	at oracle.jdbc.driver.T4CTTIfun.receive(T4CTTIfun.java:655)
+	at oracle.jdbc.driver.T4CTTIfun.doRPC(T4CTTIfun.java:249)
+	at oracle.jdbc.driver.T4C8Oall.doOALL(T4C8Oall.java:566)
+	at oracle.jdbc.driver.T4CPreparedStatement.doOall8(T4CPreparedStatement.java:215)
+	at oracle.jdbc.driver.T4CPreparedStatement.doOall8(T4CPreparedStatement.java:58)
+	at oracle.jdbc.driver.T4CPreparedStatement.executeForRows(T4CPreparedStatement.java:943)
+	at oracle.jdbc.driver.OracleStatement.doExecuteWithTimeout(OracleStatement.java:1075)
+	at oracle.jdbc.driver.OraclePreparedStatement.executeInternal(OraclePreparedStatement.java:3820)
+	at oracle.jdbc.driver.OraclePreparedStatement.executeUpdate(OraclePreparedStatement.java:3897)
+	at oracle.jdbc.driver.OraclePreparedStatementWrapper.executeUpdate(OraclePreparedStatementWrapper.java:1361)
+	at com.revature.repositories.RequestRepositoryJDBC.insertRequest(RequestRepositoryJDBC.java:37)
+	at com.revature.repositories.RequestRepositoryJDBC.main(RequestRepositoryJDBC.java:106)
+2019-07-06 10:53:27 INFO  RequestRepositoryJDBC:106 - false
+2019-07-06 11:08:02 ERROR RequestRepositoryJDBC:42 - Could not create request.
+java.sql.SQLIntegrityConstraintViolationException: ORA-02291: integrity constraint (AJOSHI97.FK_REQ_STATUS) violated - parent key not found
+
+	at oracle.jdbc.driver.T4CTTIoer.processError(T4CTTIoer.java:450)
+	at oracle.jdbc.driver.T4CTTIoer.processError(T4CTTIoer.java:399)
+	at oracle.jdbc.driver.T4C8Oall.processError(T4C8Oall.java:1017)
+	at oracle.jdbc.driver.T4CTTIfun.receive(T4CTTIfun.java:655)
+	at oracle.jdbc.driver.T4CTTIfun.doRPC(T4CTTIfun.java:249)
+	at oracle.jdbc.driver.T4C8Oall.doOALL(T4C8Oall.java:566)
+	at oracle.jdbc.driver.T4CPreparedStatement.doOall8(T4CPreparedStatement.java:215)
+	at oracle.jdbc.driver.T4CPreparedStatement.doOall8(T4CPreparedStatement.java:58)
+	at oracle.jdbc.driver.T4CPreparedStatement.executeForRows(T4CPreparedStatement.java:943)
+	at oracle.jdbc.driver.OracleStatement.doExecuteWithTimeout(OracleStatement.java:1075)
+	at oracle.jdbc.driver.OraclePreparedStatement.executeInternal(OraclePreparedStatement.java:3820)
+	at oracle.jdbc.driver.OraclePreparedStatement.executeUpdate(OraclePreparedStatement.java:3897)
+	at oracle.jdbc.driver.OraclePreparedStatementWrapper.executeUpdate(OraclePreparedStatementWrapper.java:1361)
+	at com.revature.repositories.RequestRepositoryJDBC.insertRequest(RequestRepositoryJDBC.java:37)
+	at com.revature.repositories.RequestRepositoryJDBC.main(RequestRepositoryJDBC.java:106)
+2019-07-06 11:08:02 INFO  RequestRepositoryJDBC:106 - false
+2019-07-06 11:13:42 ERROR StatusRepositoryJDBC:38 - Could not create request.
+java.sql.SQLSyntaxErrorException: ORA-00947: not enough values
+
+	at oracle.jdbc.driver.T4CTTIoer.processError(T4CTTIoer.java:450)
+	at oracle.jdbc.driver.T4CTTIoer.processError(T4CTTIoer.java:399)
+	at oracle.jdbc.driver.T4C8Oall.processError(T4C8Oall.java:1017)
+	at oracle.jdbc.driver.T4CTTIfun.receive(T4CTTIfun.java:655)
+	at oracle.jdbc.driver.T4CTTIfun.doRPC(T4CTTIfun.java:249)
+	at oracle.jdbc.driver.T4C8Oall.doOALL(T4C8Oall.java:566)
+	at oracle.jdbc.driver.T4CPreparedStatement.doOall8(T4CPreparedStatement.java:215)
+	at oracle.jdbc.driver.T4CPreparedStatement.doOall8(T4CPreparedStatement.java:58)
+	at oracle.jdbc.driver.T4CPreparedStatement.executeForRows(T4CPreparedStatement.java:943)
+	at oracle.jdbc.driver.OracleStatement.doExecuteWithTimeout(OracleStatement.java:1075)
+	at oracle.jdbc.driver.OraclePreparedStatement.executeInternal(OraclePreparedStatement.java:3820)
+	at oracle.jdbc.driver.OraclePreparedStatement.executeUpdate(OraclePreparedStatement.java:3897)
+	at oracle.jdbc.driver.OraclePreparedStatementWrapper.executeUpdate(OraclePreparedStatementWrapper.java:1361)
+	at com.revature.repositories.StatusRepositoryJDBC.insertStatus(StatusRepositoryJDBC.java:33)
+	at com.revature.repositories.StatusRepositoryJDBC.main(StatusRepositoryJDBC.java:66)
+2019-07-06 11:13:42 INFO  StatusRepositoryJDBC:66 - false
+2019-07-06 11:16:46 ERROR StatusRepositoryJDBC:38 - Could not create request.
+java.sql.SQLRecoverableException: IO Error: Socket read timed out
+	at oracle.jdbc.driver.T4CConnection.logon(T4CConnection.java:673)
+	at oracle.jdbc.driver.PhysicalConnection.<init>(PhysicalConnection.java:715)
+	at oracle.jdbc.driver.T4CConnection.<init>(T4CConnection.java:385)
+	at oracle.jdbc.driver.T4CDriverExtension.getConnection(T4CDriverExtension.java:30)
+	at oracle.jdbc.driver.OracleDriver.connect(OracleDriver.java:564)
+	at java.sql.DriverManager.getConnection(DriverManager.java:664)
+	at java.sql.DriverManager.getConnection(DriverManager.java:247)
+	at com.revature.util.ReimbursementConnectionUtil.getConnection(ReimbursementConnectionUtil.java:18)
+	at com.revature.repositories.StatusRepositoryJDBC.insertStatus(StatusRepositoryJDBC.java:23)
+	at com.revature.repositories.StatusRepositoryJDBC.main(StatusRepositoryJDBC.java:66)
+Caused by: oracle.net.ns.NetException: Socket read timed out
+	at oracle.net.ns.Packet.receive(Packet.java:350)
+	at oracle.net.ns.NSProtocolStream.negotiateConnection(NSProtocolStream.java:153)
+	at oracle.net.ns.NSProtocol.connect(NSProtocol.java:263)
+	at oracle.jdbc.driver.T4CConnection.connect(T4CConnection.java:1360)
+	at oracle.jdbc.driver.T4CConnection.logon(T4CConnection.java:486)
+	... 9 more
+2019-07-06 11:16:46 INFO  StatusRepositoryJDBC:66 - false
+2019-07-06 11:17:20 INFO  StatusRepositoryJDBC:66 - true
+2019-07-06 11:17:20 ERROR StatusRepositoryJDBC:38 - Could not create request.
+java.sql.SQLIntegrityConstraintViolationException: ORA-00001: unique constraint (AJOSHI97.PK_STATUS) violated
+
+	at oracle.jdbc.driver.T4CTTIoer.processError(T4CTTIoer.java:450)
+	at oracle.jdbc.driver.T4CTTIoer.processError(T4CTTIoer.java:399)
+	at oracle.jdbc.driver.T4C8Oall.processError(T4C8Oall.java:1017)
+	at oracle.jdbc.driver.T4CTTIfun.receive(T4CTTIfun.java:655)
+	at oracle.jdbc.driver.T4CTTIfun.doRPC(T4CTTIfun.java:249)
+	at oracle.jdbc.driver.T4C8Oall.doOALL(T4C8Oall.java:566)
+	at oracle.jdbc.driver.T4CPreparedStatement.doOall8(T4CPreparedStatement.java:215)
+	at oracle.jdbc.driver.T4CPreparedStatement.doOall8(T4CPreparedStatement.java:58)
+	at oracle.jdbc.driver.T4CPreparedStatement.executeForRows(T4CPreparedStatement.java:943)
+	at oracle.jdbc.driver.OracleStatement.doExecuteWithTimeout(OracleStatement.java:1075)
+	at oracle.jdbc.driver.OraclePreparedStatement.executeInternal(OraclePreparedStatement.java:3820)
+	at oracle.jdbc.driver.OraclePreparedStatement.executeUpdate(OraclePreparedStatement.java:3897)
+	at oracle.jdbc.driver.OraclePreparedStatementWrapper.executeUpdate(OraclePreparedStatementWrapper.java:1361)
+	at com.revature.repositories.StatusRepositoryJDBC.insertStatus(StatusRepositoryJDBC.java:33)
+	at com.revature.repositories.StatusRepositoryJDBC.main(StatusRepositoryJDBC.java:66)
+2019-07-06 11:17:21 INFO  StatusRepositoryJDBC:66 - false
+2019-07-06 11:20:20 INFO  RequestRepositoryJDBC:106 - true
+2019-07-06 15:48:16 TRACE AccountRepositoryJDBC:61 - Finding Account Information
+2019-07-06 15:48:19 TRACE AccountRepositoryJDBC:74 - Found Account
+2019-07-06 15:48:19 INFO  AccountRepositoryJDBC:94 - Account [id=2, firstName=Shreeram, lastName=Joshi, email=sjoshi21@yahoo.com, username=sjoshi76, password=password, role=E]
+2019-07-12 15:38:17 INFO  RequestRepositoryJDBC:136 - Request [id=1, type=TRAVEL, accountId=2, status=Status [id=1234, type=]]
+2019-07-12 15:40:06 WARN  RequestRepositoryJDBC:105 - Error on selecting on the employees
+java.sql.SQLException: Invalid column name
+	at oracle.jdbc.driver.OracleStatement.getColumnIndex(OracleStatement.java:3965)
+	at oracle.jdbc.driver.InsensitiveScrollableResultSet.findColumn(InsensitiveScrollableResultSet.java:299)
+	at oracle.jdbc.driver.GeneratedResultSet.getString(GeneratedResultSet.java:1460)
+	at com.revature.repositories.RequestRepositoryJDBC.lookAtRequestByEmployee(RequestRepositoryJDBC.java:100)
+	at com.revature.repositories.RequestRepositoryJDBC.main(RequestRepositoryJDBC.java:136)
+2019-07-12 15:40:06 INFO  RequestRepositoryJDBC:136 - 
+2019-07-12 15:41:19 INFO  RequestRepositoryJDBC:136 - Request [id=1, type=TRAVEL, accountId=2, status=Status [id=1234, type=Request not taken]]
+2019-07-12 16:07:11 INFO  RequestRepositoryJDBC:136 - Request [id=1, type=TRAVEL, accountId=2, status=Status [id=1234, type=Request not taken]]
+2019-07-12 16:08:28 INFO  RequestRepositoryJDBC:136 - [Request [id=1, type=TRAVEL, accountId=2, status=Status [id=1234, type=Request not taken]], Request [id=2, type=CERTIFICATION, accountId=3, status=Status [id=2345, type=Request not taken]], Request [id=3, type=TRAINING, accountId=4, status=Status [id=3456, type=Request not taken]], Request [id=4, type=CERTIFICATION, accountId=5, status=Status [id=4567, type=Request not taken]]]
+2019-07-15 17:10:32 TRACE RequestRepositoryJDBC:192 - Updating request...
+2019-07-15 17:10:32 WARN  RequestRepositoryJDBC:205 - Error on selecting on the employees
+java.sql.SQLException: ORA-01407: cannot update ("AJOSHI97"."REQUEST"."R_STATUS") to NULL
+
+	at oracle.jdbc.driver.T4CTTIoer.processError(T4CTTIoer.java:450)
+	at oracle.jdbc.driver.T4CTTIoer.processError(T4CTTIoer.java:399)
+	at oracle.jdbc.driver.T4C8Oall.processError(T4C8Oall.java:1017)
+	at oracle.jdbc.driver.T4CTTIfun.receive(T4CTTIfun.java:655)
+	at oracle.jdbc.driver.T4CTTIfun.doRPC(T4CTTIfun.java:249)
+	at oracle.jdbc.driver.T4C8Oall.doOALL(T4C8Oall.java:566)
+	at oracle.jdbc.driver.T4CPreparedStatement.doOall8(T4CPreparedStatement.java:215)
+	at oracle.jdbc.driver.T4CPreparedStatement.doOall8(T4CPreparedStatement.java:58)
+	at oracle.jdbc.driver.T4CPreparedStatement.executeForRows(T4CPreparedStatement.java:943)
+	at oracle.jdbc.driver.OracleStatement.doExecuteWithTimeout(OracleStatement.java:1075)
+	at oracle.jdbc.driver.OraclePreparedStatement.executeInternal(OraclePreparedStatement.java:3820)
+	at oracle.jdbc.driver.OraclePreparedStatement.executeQuery(OraclePreparedStatement.java:3867)
+	at oracle.jdbc.driver.OraclePreparedStatementWrapper.executeQuery(OraclePreparedStatementWrapper.java:1502)
+	at com.revature.repositories.RequestRepositoryJDBC.updateRequest(RequestRepositoryJDBC.java:196)
+	at com.revature.repositories.RequestRepositoryJDBC.main(RequestRepositoryJDBC.java:214)
+2019-07-15 17:10:32 INFO  RequestRepositoryJDBC:214 - false
